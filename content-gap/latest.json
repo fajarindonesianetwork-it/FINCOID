@@ -1,36 +1,48 @@
 {
-    "generated_at": "2026-08-06T00:43:55+00:00",
+    "generated_at": "2026-08-10T06:00:27+00:00",
     "domains": {
         "fin.co.id": [
             {
                 "query": "skuad malaysia aff 2026",
                 "impressions": 70
-            },
-            {
-                "query": "dramaqu on going",
-                "impressions": 50
             }
         ],
         "news.fin.co.id": [
             {
                 "query": "ojol viral",
-                "impressions": 1289
+                "impressions": 1008
+            },
+            {
+                "query": "hilda clarissa theopilus",
+                "impressions": 185
+            },
+            {
+                "query": "jorge messi",
+                "impressions": 102
             }
         ],
         "entertainment.fin.co.id": [
+            {
+                "query": "spoiler one piece 1190",
+                "impressions": 337
+            },
+            {
+                "query": "a love other than yours",
+                "impressions": 218
+            },
             {
                 "query": "agent kim reactivated hyeri",
                 "impressions": 78
             },
             {
-                "query": "urutan film dilan dari awal sampai akhir",
-                "impressions": 55
+                "query": "one piece 1190",
+                "impressions": 54
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 134
+                "impressions": 123
             }
         ],
         "tekno.fin.co.id": [
@@ -39,12 +51,12 @@
                 "impressions": 75
             },
             {
-                "query": "cara menggunakan voucher saldo dana",
-                "impressions": 74
+                "query": "cara tukar voucher dana jadi saldo dana",
+                "impressions": 64
             },
             {
-                "query": "cara tukar voucher dana jadi saldo dana",
-                "impressions": 66
+                "query": "cara menggunakan voucher saldo dana",
+                "impressions": 52
             }
         ]
     }
