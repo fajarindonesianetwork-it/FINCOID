@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-10T06:00:27+00:00",
+    "generated_at": "2026-08-17T06:00:23+00:00",
     "domains": {
         "fin.co.id": [
             {
@@ -9,12 +9,8 @@
         ],
         "news.fin.co.id": [
             {
-                "query": "ojol viral",
-                "impressions": 1008
-            },
-            {
                 "query": "hilda clarissa theopilus",
-                "impressions": 185
+                "impressions": 186
             },
             {
                 "query": "jorge messi",
@@ -24,7 +20,7 @@
         "entertainment.fin.co.id": [
             {
                 "query": "spoiler one piece 1190",
-                "impressions": 337
+                "impressions": 401
             },
             {
                 "query": "a love other than yours",
@@ -36,27 +32,27 @@
             },
             {
                 "query": "one piece 1190",
-                "impressions": 54
+                "impressions": 56
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 123
+                "impressions": 120
             }
         ],
         "tekno.fin.co.id": [
             {
                 "query": "cara menggunakan voucher dana",
-                "impressions": 75
+                "impressions": 76
             },
             {
                 "query": "cara tukar voucher dana jadi saldo dana",
-                "impressions": 64
+                "impressions": 60
             },
             {
-                "query": "cara menggunakan voucher saldo dana",
-                "impressions": 52
+                "query": "cara pakai voucher dana",
+                "impressions": 53
             }
         ]
     }
