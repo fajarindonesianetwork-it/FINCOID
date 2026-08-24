@@ -1,13 +1,11 @@
 {
-    "generated_at": "2026-08-17T06:00:23+00:00",
+    "generated_at": "2026-08-24T06:00:17+00:00",
     "domains": {
-        "fin.co.id": [
-            {
-                "query": "skuad malaysia aff 2026",
-                "impressions": 70
-            }
-        ],
         "news.fin.co.id": [
+            {
+                "query": "wakapolda aceh diusir",
+                "impressions": 563
+            },
             {
                 "query": "hilda clarissa theopilus",
                 "impressions": 186
@@ -27,8 +25,16 @@
                 "impressions": 218
             },
             {
-                "query": "agent kim reactivated hyeri",
-                "impressions": 78
+                "query": "urutan nonton dilan",
+                "impressions": 186
+            },
+            {
+                "query": "urutan nonton film dilan",
+                "impressions": 70
+            },
+            {
+                "query": "urutan film dilan dari awal sampai akhir",
+                "impressions": 62
             },
             {
                 "query": "one piece 1190",
@@ -38,21 +44,17 @@
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 120
+                "impressions": 114
             }
         ],
         "tekno.fin.co.id": [
             {
                 "query": "cara menggunakan voucher dana",
-                "impressions": 76
+                "impressions": 58
             },
             {
                 "query": "cara tukar voucher dana jadi saldo dana",
-                "impressions": 60
-            },
-            {
-                "query": "cara pakai voucher dana",
-                "impressions": 53
+                "impressions": 50
             }
         ]
     }
