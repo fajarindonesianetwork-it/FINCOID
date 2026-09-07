@@ -1,68 +1,86 @@
 {
-    "generated_at": "2026-08-31T06:00:22+00:00",
+    "generated_at": "2026-09-07T06:00:19+00:00",
     "domains": {
+        "fin.co.id": [
+            {
+                "query": "naruto senki no cooldown skill",
+                "impressions": 445
+            },
+            {
+                "query": "mod the spike terbaru",
+                "impressions": 224
+            },
+            {
+                "query": "perbedaan ps5 fat slim dan pro",
+                "impressions": 69
+            },
+            {
+                "query": "nonton film semi korea",
+                "impressions": 60
+            }
+        ],
         "news.fin.co.id": [
             {
                 "query": "wakapolda aceh diusir",
                 "impressions": 563
             },
             {
-                "query": "hilda clarissa theopilus",
-                "impressions": 186
-            },
-            {
-                "query": "jorge messi",
-                "impressions": 102
+                "query": "link ojol viral",
+                "impressions": 69
             },
             {
                 "query": "ojol vs bule bali viral link",
-                "impressions": 55
+                "impressions": 62
             }
         ],
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 1622
-            },
-            {
-                "query": "spoiler one piece 1190",
-                "impressions": 401
+                "impressions": 3941
             },
             {
                 "query": "urutan nonton dilan",
-                "impressions": 367
-            },
-            {
-                "query": "a love other than yours",
-                "impressions": 218
+                "impressions": 1135
             },
             {
                 "query": "urutan nonton film dilan",
-                "impressions": 135
+                "impressions": 488
             },
             {
                 "query": "urutan film dilan dari awal sampai akhir",
-                "impressions": 114
+                "impressions": 350
             },
             {
-                "query": "brand new day artinya",
-                "impressions": 104
+                "query": "susunan film dilan",
+                "impressions": 110
             },
             {
-                "query": "one piece 1190",
-                "impressions": 56
+                "query": "alur film dilan",
+                "impressions": 89
+            },
+            {
+                "query": "dilan urutan film",
+                "impressions": 77
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 145
+                "impressions": 334
             }
         ],
         "tekno.fin.co.id": [
             {
                 "query": "download kizuna player mod",
-                "impressions": 132
+                "impressions": 211
+            },
+            {
+                "query": "naruto senki",
+                "impressions": 89
+            },
+            {
+                "query": "herex simulator indonesia uang tak terbatas 2026",
+                "impressions": 60
             }
         ]
     }
