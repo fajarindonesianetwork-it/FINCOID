@@ -1,18 +1,22 @@
 {
-    "generated_at": "2026-09-14T06:00:30+00:00",
+    "generated_at": "2026-09-21T06:00:17+00:00",
     "domains": {
         "fin.co.id": [
             {
                 "query": "naruto senki no cooldown skill",
-                "impressions": 636
+                "impressions": 791
             },
             {
                 "query": "mod the spike terbaru",
-                "impressions": 224
+                "impressions": 184
             },
             {
                 "query": "perbedaan ps5 fat slim dan pro",
                 "impressions": 80
+            },
+            {
+                "query": "nure onna",
+                "impressions": 71
             },
             {
                 "query": "nonton film semi korea",
@@ -22,73 +26,83 @@
         "news.fin.co.id": [
             {
                 "query": "link ojol viral",
-                "impressions": 73
-            },
-            {
-                "query": "ojol vs bule bali viral link",
-                "impressions": 50
+                "impressions": 70
             }
         ],
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 5358
+                "impressions": 6033
             },
             {
                 "query": "urutan nonton dilan",
-                "impressions": 1611
+                "impressions": 1953
             },
             {
                 "query": "urutan nonton film dilan",
-                "impressions": 630
-            },
-            {
-                "query": "urutan film dilan dari awal sampai akhir",
-                "impressions": 445
+                "impressions": 790
             },
             {
                 "query": "urutan dilan",
-                "impressions": 388
+                "impressions": 481
+            },
+            {
+                "query": "urutan film dilan dari awal sampai akhir",
+                "impressions": 447
             },
             {
                 "query": "susunan film dilan",
-                "impressions": 148
-            },
-            {
-                "query": "alur film dilan",
-                "impressions": 118
+                "impressions": 175
             },
             {
                 "query": "urutan film dilan dari awal",
-                "impressions": 110
+                "impressions": 152
+            },
+            {
+                "query": "alur film dilan",
+                "impressions": 141
             },
             {
                 "query": "dilan urutan film",
-                "impressions": 103
-            },
-            {
-                "query": "urutan dilan yang benar",
-                "impressions": 51
+                "impressions": 122
             },
             {
                 "query": "alur cerita dilan",
-                "impressions": 51
+                "impressions": 59
+            },
+            {
+                "query": "urutan dilan yang benar",
+                "impressions": 58
+            },
+            {
+                "query": "rangkaian film dilan",
+                "impressions": 56
+            },
+            {
+                "query": "alur nonton dilan",
+                "impressions": 50
+            }
+        ],
+        "gadget.fin.co.id": [
+            {
+                "query": "poco x8 power harga",
+                "impressions": 164
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 363
+                "impressions": 377
             }
         ],
         "tekno.fin.co.id": [
             {
                 "query": "download kizuna player mod",
-                "impressions": 202
+                "impressions": 152
             },
             {
                 "query": "naruto senki",
-                "impressions": 110
+                "impressions": 91
             }
         ]
     }
