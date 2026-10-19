@@ -1,22 +1,14 @@
 {
-    "generated_at": "2026-10-12T06:00:23+00:00",
+    "generated_at": "2026-10-19T06:00:17+00:00",
     "domains": {
         "fin.co.id": [
             {
                 "query": "nonton semi korea",
-                "impressions": 207
-            },
-            {
-                "query": "naruto senki no cooldown skill",
-                "impressions": 131
+                "impressions": 587
             },
             {
                 "query": "nonton film semi korea",
-                "impressions": 68
-            },
-            {
-                "query": "nure onna",
-                "impressions": 62
+                "impressions": 87
             },
             {
                 "query": "klasemen al-nassr vs al draih",
@@ -26,19 +18,31 @@
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 2567
+                "impressions": 1855
             },
             {
                 "query": "urutan nonton dilan",
-                "impressions": 898
+                "impressions": 670
             },
             {
-                "query": "urutan nonton film dilan",
-                "impressions": 504
+                "query": "oa a20",
+                "impressions": 422
             },
             {
                 "query": "konser jis september 2026",
                 "impressions": 363
+            },
+            {
+                "query": "aijing a20",
+                "impressions": 199
+            },
+            {
+                "query": "oa a20 lite",
+                "impressions": 171
+            },
+            {
+                "query": "urutan film dilan dari awal sampai akhir",
+                "impressions": 167
             },
             {
                 "query": "pekerjaan erin taulany",
@@ -49,12 +53,12 @@
                 "impressions": 148
             },
             {
-                "query": "urutan film dilan dari awal sampai akhir",
-                "impressions": 147
+                "query": "aijing a20 lite",
+                "impressions": 137
             },
             {
                 "query": "urutan film dilan dari awal",
-                "impressions": 142
+                "impressions": 120
             },
             {
                 "query": "rundown the weeknd",
@@ -73,6 +77,10 @@
                 "impressions": 91
             },
             {
+                "query": "a20 lite",
+                "impressions": 88
+            },
+            {
                 "query": "konser jis 2026",
                 "impressions": 84
             },
@@ -82,15 +90,7 @@
             },
             {
                 "query": "alur film dilan",
-                "impressions": 68
-            },
-            {
-                "query": "resident evil night zero",
-                "impressions": 61
-            },
-            {
-                "query": "amanda rigby kelahiran tahun berapa",
-                "impressions": 51
+                "impressions": 56
             },
             {
                 "query": "apa pekerjaan erin taulany",
@@ -100,13 +100,13 @@
         "gadget.fin.co.id": [
             {
                 "query": "poco x8 power harga",
-                "impressions": 235
+                "impressions": 72
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 224
+                "impressions": 190
             }
         ]
     }
