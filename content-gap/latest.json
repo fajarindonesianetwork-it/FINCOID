@@ -1,14 +1,14 @@
 {
-    "generated_at": "2026-10-19T06:00:17+00:00",
+    "generated_at": "2026-10-26T06:00:21+00:00",
     "domains": {
         "fin.co.id": [
             {
                 "query": "nonton semi korea",
-                "impressions": 587
+                "impressions": 586
             },
             {
                 "query": "nonton film semi korea",
-                "impressions": 87
+                "impressions": 92
             },
             {
                 "query": "klasemen al-nassr vs al draih",
@@ -18,23 +18,27 @@
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 1855
+                "impressions": 1284
+            },
+            {
+                "query": "ai jing a20 lite",
+                "impressions": 888
             },
             {
                 "query": "urutan nonton dilan",
-                "impressions": 670
+                "impressions": 536
             },
             {
                 "query": "oa a20",
-                "impressions": 422
-            },
-            {
-                "query": "konser jis september 2026",
-                "impressions": 363
+                "impressions": 497
             },
             {
                 "query": "aijing a20",
-                "impressions": 199
+                "impressions": 324
+            },
+            {
+                "query": "aijing a20 lite",
+                "impressions": 231
             },
             {
                 "query": "oa a20 lite",
@@ -45,68 +49,30 @@
                 "impressions": 167
             },
             {
-                "query": "pekerjaan erin taulany",
-                "impressions": 154
-            },
-            {
-                "query": "konser di jis september 2026",
-                "impressions": 148
-            },
-            {
-                "query": "aijing a20 lite",
-                "impressions": 137
-            },
-            {
-                "query": "urutan film dilan dari awal",
-                "impressions": 120
-            },
-            {
-                "query": "rundown the weeknd",
-                "impressions": 109
-            },
-            {
-                "query": "bisnis erin taulany",
-                "impressions": 99
-            },
-            {
-                "query": "semua film dilan",
-                "impressions": 98
-            },
-            {
-                "query": "ria yamada",
-                "impressions": 91
+                "query": "9 dewa gitar indonesia",
+                "impressions": 92
             },
             {
                 "query": "a20 lite",
-                "impressions": 88
+                "impressions": 89
             },
             {
-                "query": "konser jis 2026",
-                "impressions": 84
+                "query": "urutan film dilan dari awal",
+                "impressions": 64
             },
             {
-                "query": "usaha erin taulany",
-                "impressions": 73
-            },
-            {
-                "query": "alur film dilan",
-                "impressions": 56
-            },
-            {
-                "query": "apa pekerjaan erin taulany",
-                "impressions": 50
-            }
-        ],
-        "gadget.fin.co.id": [
-            {
-                "query": "poco x8 power harga",
-                "impressions": 72
+                "query": "ai jing a20",
+                "impressions": 52
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 190
+                "impressions": 188
+            },
+            {
+                "query": "site:fin.co.id",
+                "impressions": 61
             }
         ]
     }
