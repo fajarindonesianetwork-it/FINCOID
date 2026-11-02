@@ -1,14 +1,14 @@
 {
-    "generated_at": "2026-10-26T06:00:21+00:00",
+    "generated_at": "2026-11-02T06:00:28+00:00",
     "domains": {
         "fin.co.id": [
             {
                 "query": "nonton semi korea",
-                "impressions": 586
+                "impressions": 470
             },
             {
                 "query": "nonton film semi korea",
-                "impressions": 92
+                "impressions": 89
             },
             {
                 "query": "klasemen al-nassr vs al draih",
@@ -18,19 +18,19 @@
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 1284
+                "impressions": 1177
             },
             {
                 "query": "ai jing a20 lite",
                 "impressions": 888
             },
             {
-                "query": "urutan nonton dilan",
-                "impressions": 536
-            },
-            {
                 "query": "oa a20",
                 "impressions": 497
+            },
+            {
+                "query": "urutan nonton dilan",
+                "impressions": 481
             },
             {
                 "query": "aijing a20",
@@ -46,7 +46,7 @@
             },
             {
                 "query": "urutan film dilan dari awal sampai akhir",
-                "impressions": 167
+                "impressions": 163
             },
             {
                 "query": "9 dewa gitar indonesia",
@@ -57,22 +57,26 @@
                 "impressions": 89
             },
             {
-                "query": "urutan film dilan dari awal",
-                "impressions": 64
+                "query": "ada berapa film dilan",
+                "impressions": 62
             },
             {
                 "query": "ai jing a20",
                 "impressions": 52
+            },
+            {
+                "query": "urutan film dilan dari awal",
+                "impressions": 51
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 188
+                "impressions": 194
             },
             {
                 "query": "site:fin.co.id",
-                "impressions": 61
+                "impressions": 53
             }
         ]
     }
