@@ -1,72 +1,46 @@
 {
-    "generated_at": "2026-11-09T06:00:30+00:00",
+    "generated_at": "2026-11-16T06:00:19+00:00",
     "domains": {
-        "fin.co.id": [
-            {
-                "query": "nonton semi korea",
-                "impressions": 133
-            }
-        ],
         "entertainment.fin.co.id": [
             {
                 "query": "urutan film dilan",
-                "impressions": 1148
+                "impressions": 1029
             },
             {
                 "query": "ai jing a20 lite",
-                "impressions": 888
-            },
-            {
-                "query": "urutan nonton dilan",
-                "impressions": 505
-            },
-            {
-                "query": "oa a20",
                 "impressions": 497
             },
             {
-                "query": "aijing a20",
-                "impressions": 324
+                "query": "urutan nonton dilan",
+                "impressions": 424
             },
             {
                 "query": "film dilan",
                 "impressions": 301
             },
             {
-                "query": "aijing a20 lite",
-                "impressions": 231
-            },
-            {
-                "query": "oa a20 lite",
-                "impressions": 171
-            },
-            {
-                "query": "9 dewa gitar indonesia",
-                "impressions": 92
-            },
-            {
-                "query": "a20 lite",
-                "impressions": 89
-            },
-            {
                 "query": "ada berapa film dilan",
-                "impressions": 85
+                "impressions": 72
             },
             {
-                "query": "ai jing a20",
-                "impressions": 52
+                "query": "sinopsis the remarried empress",
+                "impressions": 70
             }
         ],
         "tangerangraya.fin.co.id": [
             {
                 "query": "tangerang raya",
-                "impressions": 202
+                "impressions": 188
             }
         ],
         "tekno.fin.co.id": [
             {
+                "query": "nekopoi",
+                "impressions": 40494
+            },
+            {
                 "query": "apk nekopoi",
-                "impressions": 91
+                "impressions": 209
             }
         ]
     }
